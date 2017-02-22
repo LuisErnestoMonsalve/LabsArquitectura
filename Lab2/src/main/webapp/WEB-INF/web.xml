@@ -22,3 +22,12 @@
         <welcome-file>faces/index.xhtml</welcome-file>
     </welcome-file-list>
 </web-app>
+<context-param>
+    <param-name>primefaces.PUBLIC_CAPTCHA_KEY</param-name>
+    <param-value>6LejihYUAAAAALDeUQvw8aPeuCFo4BuPAGhTZ11R</param-value>
+</context-param>
+
+<context-param>
+    <param-name>primefaces.PRIVATE_CAPTCHA_KEY</param-name>
+    <param-value>6LejihYUAAAAAMCuIil4T4dAnU8TFmRSQlw0uAxX</param-value>
+</context-param>
